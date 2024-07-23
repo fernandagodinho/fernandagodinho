@@ -1,4 +1,7 @@
-<h2 align="left">Hi DEV👋! My name is Fernanda Godinho and I'm a Florianópolis</h>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+FERNANDA+ALVES+GODINHO+DA+SILVA;I'm+42+years+old;I+am+from+FLORIPA,+SC;I+study+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+
+<h2 align="left">Hi DEV👋</h2>
 
 <p>
                        Sou uma Estudante Apaixonada por Tecnologia.

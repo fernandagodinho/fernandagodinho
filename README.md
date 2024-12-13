@@ -11,6 +11,7 @@
   - 🌱 I’m currently studying  Computer Science  <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
     "codifique seus Sonhos"
+    "conhecimento não ocupa espaço"
 </p>
 
 <!-- GIF -->
